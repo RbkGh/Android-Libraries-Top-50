@@ -19,5 +19,5 @@
 # Leggo!
 | Name of category | Description |
   ---------------- | ------------- 
-[General](categories/general.md) | Apps for Android Wear. 
-[Animation](categories/animation.md) | Top Animation Libraries for android. 
+[#General](categories/general.md) | Generally Cool And Productive Android Libraries List
+[#Animation](categories/animation.md) | Top Productive Animation Libraries for Android. 
